@@ -38,9 +38,12 @@
 
     #input{
       height: 40px;
+      line-height: 40px;
+      text-align: end;
     }
     #result{
       height: 40px;
+      line-height: 40px;
       text-align: end;
       padding-right: 5px;
       font-size: 30px;
@@ -71,7 +74,8 @@
     }
     #clear{
       width: 160px;
-      background-color: #EA3323;
+      background-color: #d36c63;
+      color: #fff;
     }
     #equals{
       height: 160px;
