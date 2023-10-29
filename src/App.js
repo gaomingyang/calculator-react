@@ -177,6 +177,9 @@ function App() {
           <div className="operateButton" id="equals" onClick={clickFinish}>=</div>
         </div>
       </div>
+      <div id='footer'>
+        Designed and Coded by <a href='https://github.com/gaomingyang/calculator-react'>Mingyang</a>
+      </div>
     </div>
     
   );
