@@ -178,7 +178,7 @@ function App() {
         </div>
       </div>
       <div id='footer'>
-        Designed and Coded by <a href='https://github.com/gaomingyang/calculator-react'>Mingyang</a>
+        Designed and Coded by <br/> <a href='https://github.com/gaomingyang/calculator-react'>Mingyang</a>
       </div>
     </div>
     
