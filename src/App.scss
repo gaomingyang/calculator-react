@@ -73,8 +73,8 @@
       float: left;
     }
     .operateButton:hover{
-      // outline: .05em solid #265CB0;
-      // color: black;
+      filter:brightness(1.1);
+      color: #fff;
       background-color: #8cb3f0;
     }
     #clear{
