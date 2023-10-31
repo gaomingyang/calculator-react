@@ -3,7 +3,8 @@ Build a Calculator by React
 
 Online Demo: [Calculator](https://calculator.gaomingyang.cn)
 
-![demo](demo.jpg){:height="200px" width="400px"}
+<img src="demo.jpg" alt="demo image" width="200px">
+![demo](demo.jpg){:height="200px" width="200px"}
 
 ## Technologies
 * use React build the app
